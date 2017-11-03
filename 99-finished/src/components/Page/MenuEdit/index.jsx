@@ -1,11 +1,7 @@
 import React, { Component } from 'react'
 import MenuItem from './MenuItem'
-import items from '../../../menu-data'
 
 const MenuEdit = (props) => {
-
-
-
   const renderItems = props.menuItems.map((i, index) => (
     <MenuItem
       key={index}

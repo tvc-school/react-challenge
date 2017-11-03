@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import MenuItem from './MenuItem'
-import items from '../../../menu-data'
 
 const MenuEdit = (props) => {
 
