@@ -1,6 +1,7 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
-const galleryItem = (props) => {
+const GalleryItem = (props) => {
   let { title, description, image, price } = props.item
 
   return (
@@ -13,4 +14,8 @@ const galleryItem = (props) => {
   )
 }
 
-export default galleryItem
+GalleryItem.propTypes = {
+  item: PropTypes.object.isRequired,
+}
+
+export default GalleryItem
