@@ -1,5 +1,5 @@
 import React from 'react'
-import iVegies from './images/vegies-left.jpg'
+import iVegies from '../../../images/vegies-left.jpg'
 import Nav from './Nav'
 
 const Header = () => {
