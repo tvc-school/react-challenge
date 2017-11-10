@@ -9,7 +9,7 @@
 1. Or best of all, join us in-person at a [TriValley Coders Meetup](https://www.meetup.com/trivalleycoders/).
 
 ## Feedback
-- We love learning how to teach developers better than we already do. Please provide your feedback on [Slack](https://join.slack.com/t/trivalleycoders/shared_invite/enQtMjY5ODI5OTQzMDcyLWU5ZGI1MDMxNGMzYjk1NzBiMTZjOGQ5OWE4Zjg5MTU0NzgyNWE3N2RjMGJmODcxMzkyZGMwMTNmYjFhZDllZDY). You can tell us anything you want including:
+- We love learning how to teach people to make software better than we already do. Please provide your feedback on [Slack](https://join.slack.com/t/trivalleycoders/shared_invite/enQtMjY5ODI5OTQzMDcyLWU5ZGI1MDMxNGMzYjk1NzBiMTZjOGQ5OWE4Zjg5MTU0NzgyNWE3N2RjMGJmODcxMzkyZGMwMTNmYjFhZDllZDY). You can tell us anything you want including:
   - What was most helpful
   - Where you got stuck
   - Something we didn't mention but you had to learn in order to accomplish a task
